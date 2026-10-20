@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# [Doyin Ogunlaja] - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -15,7 +15,7 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+*An end-to-end retail sales analytics project using Microsoft Excel to clean data, develop KPIs, analyse sales trends, compare product, store, customer and channel performance, and build dashboards that deliver actionable insights and evidence-based business recommendations for a fictional UK retailer.*
 
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
